@@ -8,7 +8,7 @@
   Tinker CAD tool (Online)
 	Arduino UNO Board/ESP-32
   Gas sensor (MQ-2)
-	
+
 ## Circuit Diagram:
 <img width="1232" height="621" alt="image" src="https://github.com/user-attachments/assets/20da9301-eceb-4443-8250-3d03bffabee5" />
 
